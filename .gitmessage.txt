@@ -1,0 +1,10 @@
+# <emoji> <type>: <summary>
+#
+# ✨ add: 新增内容
+# 🔥 refactor: 重构结构
+# 🧊 fix: 修复错误
+# 🪶 doc: 文档注释
+# 🌡️ tune: 微调语气
+# 🕰 rev: 回溯旧稿
+#
+# 记得保持一句话内完成逻辑。

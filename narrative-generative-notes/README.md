@@ -41,3 +41,5 @@ This section stands upstream of both `philosophical-structure-notes/` and `econ-
 If those folders describe *how structure stabilizes*,  
 this one traces **how structure emerges** —  
 in the raw interactions between perception, imagination, and conceptual form.
+
+---

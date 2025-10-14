@@ -47,8 +47,8 @@ and classical idealism sees meaning production,
 post-systemic thought sees a single process:  
 **energy–meaning co-translation**.
 
-To exist is to maintain the capacity for such translation—  
-to breathe across discontinuities without dissolving into noise.  
+To exist is to maintain the capacity for such translation —  
+to breathe across discontinuities without collapsing into silence or noise. 
 Matter becomes the rhythm of this endurance;  
 consciousness, the syntax that lets endurance be named.
 
@@ -89,3 +89,9 @@ In this sense, the unity of ideal and material
 is not an ontological claim but an **ethical gesture**—  
 a quiet respect for whatever keeps becoming,  
 even when no one calls it real.
+
+---
+
+*Appendix Note —*  
+Every field that translates must one day face the saturation of its own recursion.  
+The following inquiries trace how translation endures when its continuity turns against itself.
