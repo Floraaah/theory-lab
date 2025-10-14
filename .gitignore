@@ -1,0 +1,21 @@
+# ---- System files ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- Temporary / cache ----
+*.log
+*.tmp
+*.bak
+*.swp
+.cache/
+.vscode/
+.idea/
+
+# ---- OS and backup ----
+~$*
+*.lnk
+
+# ---- Markdown helper tools ----
+.obsidian/
+.typora-cache/

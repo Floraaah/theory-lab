@@ -238,3 +238,5 @@ Dimensional collapse is not decay but **transformation**:
 在第三断裂后，它们坍缩为同一生成场的投影。  
 “维度”不再是存在的独立方面，而是系统生成的不同视角。  
 哲学由“空间结构”转向“动力流场”。
+
+git config --global user.email "129919018+Floraaah@users.noreply.github.com"
