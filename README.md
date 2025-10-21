@@ -1,10 +1,34 @@
 # theory-lab
 
-*last updated: 2025-10-14*
+*last updated: 2025-10-15*
 
 ---
 
-> A living system of structural inquiry — where theory, language, and cognition generate one another.
+> A living system of structural inquiry — where theory, language, and cognition generate one another;
+> 
+> a recursive field where structure sustains itself through failure.
+
+        ┌───────────────────────────┐
+        │   CONSTRAINT GEOMETRY     │
+        │  (Ethical Closure)        │
+        └────────────┬──────────────┘
+                     │ Tangent motion
+                     ▼
+             [  Curvature / Delay  ]
+                     │
+                     ▼
+        ┌────────────┴──────────────┐
+        │  NARRATIVE GENERATIVITY   │
+        │  (Ethical Exposure)       │
+        └────────────┬──────────────┘
+                     │ Translation
+                     ▼
+               Regenerative Form
+
+*Closure → Curvature → Exposure → Regeneration*  
+This cyclic geometry defines the temporal rhythm of **theory-lab**:  
+each formal articulation implies its narrative counterpart,  
+and each narrative return renews the space of construction.
 
 ---
 
@@ -58,7 +82,53 @@ writing becomes a mechanism of recomposition.
 
 ---
 
-### IV. Generative Accuracy
+## IV. Ethical Recursion: From Closure to Exposure
+
+The **theory-lab** operates across two recursive planes:
+
+1. **Constraint Geometry** (*econ-structure*):  
+   The formal layer where systems preserve internal consistency.  
+   Here, ethics is identified with **self-coherence** —  
+   the discipline of remaining tangent to one’s feasible manifold.  
+   Rationality, in this sense, is an ethical posture:  
+   a refusal to falsify form for the sake of appearance.
+
+2. **Narrative Generativity** (*narrative-generative-notes*):  
+   The expressive layer where coherence encounters its own curvature.  
+   When form begins to fail, language inherits structure’s delay.  
+   This is the domain of **ethical exposure** —  
+   to speak from within the rupture rather than above it.
+
+Together, these two layers form what can be called a  
+**geometry of ethical recursion**:
+
+| Structural Layer       | Temporal Mode      | Ethical Form            | Expression           |
+| ---------------------- | ------------------ | ----------------------- | -------------------- |
+| Constraint Geometry    | Systemic (closure) | Coherence as discipline | Tangent dynamics     |
+| Narrative Generativity | Witness (exposure) | Compassion as curvature | Linguistic recursion |
+
+> Ethics begins where geometry ends,  
+> yet geometry must exist for ethics to begin.
+
+This recursive tension defines the temporal rhythm of the repository:  
+each formal articulation implies its narrative shadow,  
+and each narrative reflection presupposes a form that once held.
+
+---
+
+### Related Notes
+
+- [On the Temporality of Ethical Closure](/philosophical-structure/ethical-closure/)
+- [The Geometry of Exposure](/narrative-generative/geometry-of-exposure/)
+
+> Within the third-rupture framework, *ethical closure* is not the negation of ethics but its generative ground.  
+> To sustain form before declaring value is itself an ethical act, for it preserves the continuity of generation.  
+> Yet the same generativity, when it begins to rewrite its own rules—through transmutation or structural risk—marks the second phase of ethical temporality: the moment when form not only holds but exceeds itself.  
+> The coexistence of human, narrative, and rational quasi-consciousnesses signals that ethics can no longer be universal, but only recursive: each closure sustains its own kind of waiting, its own grammar of continuation.
+
+---
+
+### V. Generative Accuracy
 
 In this repository, **accuracy** is redefined.  
 It no longer means correspondence to an external truth,  
@@ -83,7 +153,7 @@ Representation freezes; generation breathes.
 
 ---
 
-### V. Purpose and Invitation
+### Ⅵ. Purpose and Invitation
 
 Publicly, this repository serves as a signal of theoretical maturity:  
 a body of coherent research bridging economic design and structural philosophy.  

@@ -1,0 +1,70 @@
+% !TEX program = xelatex
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\documentclass[14pt]{extarticle}
+
+
+\usepackage[a4paper,margin=1in]{geometry}
+\usepackage{amsmath, amssymb, amsthm, mathtools}
+\usepackage{setspace, microtype, titlesec, hyperref, xcolor, graphicx, enumitem}
+\usepackage{lmodern}
+\usepackage{quoting}
+\quotingsetup{vskip=1em, leftmargin=2em, rightmargin=2em, font=itshape}
+\usepackage{xeCJK}
+\setCJKmainfont{Noto Serif CJK SC}
+\setCJKsansfont{Noto Sans CJK SC}
+
+\usepackage{newtxtext,newtxmath} % Times-like
+
+\usepackage{titlesec}
+\titlespacing*{\section}{0pt}{1.5em}{0.7em}
+\titlespacing*{\subsection}{0pt}{1.0em}{0.5em}
+
+\setstretch{1.25}
+\setlength{\parskip}{0.8em}
+
+\usepackage{longtable,booktabs,array,siunitx}
+\sisetup{parse-numbers=false}
+
+
+% 防止行末字溢出（自动微调）
+\emergencystretch=3em
+
+% 对无法断行的文本自动放松要求
+\sloppy
+
+
+% 美观的 section 结构
+\titleformat{\section}{\large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}{\normalsize\bfseries}{\thesubsection}{0.8em}{}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=blue,
+  citecolor=teal,
+  urlcolor=blue
+}
+
+% 数学符号
+\newcommand{\F}{\mathcal{F}}
+\newcommand{\projT}{\Pi_{T_A(\F)}}
+\newcommand{\projN}{\Pi_{N_A(\F)}}
+
+\begin{document}
+$if(title)$
+\begin{center}
+  {\LARGE\bfseries $title$ \par}
+  $if(author)$\vspace{0.5em}{\large $author$}\par$endif$
+  $if(affiliation)$\vspace{0.3em}{\small $affiliation$}\par$endif$
+  $if(date)$\vspace{0.3em}{\small $date$}\par$endif$
+\end{center}
+\vspace{1em}
+$endif$
+
+$body$
+
+\bibliographystyle{apalike}
+\bibliography{refs}
+
+\end{document}

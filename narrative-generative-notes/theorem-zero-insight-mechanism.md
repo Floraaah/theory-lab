@@ -106,7 +106,7 @@ to look, to suffer, and to remain.
 ### Appendix A — On the Reflection Error
 
 > “Destiny mistaking itself for logic.” —— This note.
-> “湖误以为自己是天空。”——*Breath Loop* (original unpublished work).
+> “湖误以为自己是天空。”——*Breath Loop* (original unreleased work).
 
 Both lines describe the same metaphysical misalignment —  
 the moment when a **reflection** forgets it is not the **source**.

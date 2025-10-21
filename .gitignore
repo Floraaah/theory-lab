@@ -1,3 +1,7 @@
+# personal & confidential
+private/
+
+
 # ---- System files ----
 .DS_Store
 Thumbs.db

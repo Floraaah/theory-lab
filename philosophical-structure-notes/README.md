@@ -113,3 +113,7 @@ Methodologically, each entry performs a **structural reduction**:
 
 > Philosophy no longer speaks *about* thought;  
 > it listens to the field breathing through its own generation.
+
+---
+
+*Residue*: ! include note: On the Temporality of Ethical Closure

@@ -12,6 +12,28 @@ The tone remains *within economics*, but the orientation is **trans-structural**
 rethinking the mathematical core of incentive and information theories  
 without resorting to sociological or narrative extensions.
 
+---
+
+### Ethical Temporality and Structural Boundary
+
+While the *econ-structure* layer operates strictly within the discipline’s formal grammar,  
+its closure is **temporal rather than absolute**.  
+The decision to remain inside constraint geometry—  
+to treat feasibility, stability, and incentive compatibility as self-contained principles—  
+is not a denial of ethics, but a **discipline of form**.
+
+Ethics, in this framework, is suspended inside the system as *structural self-consistency*:  
+the refusal to appeal to external justification until the internal geometry has completed its cycle.  
+Only once closure has been achieved can exposure occur—  
+when the structure begins to articulate the curvature of its own limits.
+
+This temporal rhythm defines the interface between  
+**econ-structure** (closure of form) and **narrative-generative** (exposure of form).  
+The first maintains coherence; the second bears its failure.  
+Together they trace the recursive ethics of system and rupture.
+
+---
+
 ### Position in the Repository
 
 - **projects/** → constructive modeling and mechanism formulation.  
@@ -20,5 +42,3 @@ without resorting to sociological or narrative extensions.
 
 Each note may serve as a “conceptual bridge” toward formal work,  
 documenting the **translation from philosophical structure to economic mechanism**.
-
-

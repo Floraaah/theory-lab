@@ -1,3 +1,18 @@
+---
+title: "Why I Chose Economics over Math and Physics: A Structuralist’s Statement"
+date: 2025-05-27
+permalink: /personal-structure/why-economics-over-physics/
+tags: ["personal-structure", "methodology", "serious-theory", "origin"]
+evolution:
+  - 2025-05: Original version written
+  - 2025-10: Postscript added clarifying link to constraint geometry
+summary: >
+  A personal methodological reflection written at the founding of Theory Lab,
+  tracing how the author discovered structural creation within economics rather
+  than mathematics or physics. Serves as the origin document for the later
+  constraint geometry framework.
+---
+
 # 🎯 Why I Chose Economics over Math and Physics: A Structuralist’s Statement
 
 > *“Some pursue truth in axioms, some in nature. I pursue it in tension.”*
@@ -15,9 +30,12 @@ If you're reading this, I assume you care not just about solving models, but abo
 
 ### 🧭 Background
 
-When I before entering university, my original ambition had been to study **math or physics**. My high school interest lay in structure, proof, and abstraction. However, due to entrance scores, I entered economics—a field I was less familiar with at the time. Unexpectedly, I found in economics a **new domain of structural creation**: one that not only welcomes but demands careful reasoning about **mechanisms**, **beliefs**, and **behavioral constraints**.
+In high school, I trained in *Physics Olympiad*, drawn to systems where structure revealed itself through logic and symmetry.  
+My curiosity was never about *solving problems faster*, but about how formal systems sustain coherence under constraint.
 
-What I didn’t know at the time was that this field would become my preferred platform to engage with the kind of logic I admired in mathematics—only now shaped around **incentives**, not just sets and functions.
+When it came time for university, I had the option to pursue physics through competitive entry programs—but I chose the simpler route, submitting my scores directly and landed the economics honors program at Tsinghua. It was not strategic; it was instinctive. What I sought was not prestige, but **continuity of structure**.
+
+Economics, which I had barely encountered before, turned out to be the field where that continuity could evolve, and a **new domain of structural creation**: one that not only welcomes but demands careful reasoning about **mechanisms**, **beliefs**, and **behavioral constraints**. 
 
 ---
 
@@ -69,5 +87,15 @@ In this sense, serious theory is more than a topic. It’s a **platform for stru
 
 ---
 
-**Period/Time:** 2025.05 
-**Author:** Yufei Li — Theory Lab
+### **Postscript (2025.10): Evolution Note**
+
+This document was written during the initial phase of *Theory Lab*—when “tension geometry” was still my way of naming what would later evolve into the full **constraint–geometry framework**.
+
+At the time, I still viewed “economics vs. physics” as a disciplinary choice.  
+Half a year later, I came to see it instead as a **phase equivalence**:  
+physics describes how systems conserve form through force;  
+economics, how mechanisms conserve feasibility through constraint.
+
+In this sense, this note remains a true **origin document**—  
+not to be rewritten, but to be read as the *first curvature*  
+of what would become the generative structure.
